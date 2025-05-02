@@ -7,7 +7,4 @@
         activate server
         server-->>browser: STATUS CODE 201 along with message {"message":"note created"}
         deactivate server
-
-
-        Note right of browser: The browser executes the callback function that renders the notes
 ```
