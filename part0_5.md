@@ -1,6 +1,6 @@
-```mermaid
+'''mermaid
   info
-```
+'''
 
 sequenceDiagram
     participant browser
